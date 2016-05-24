@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EasyParking</string>
+    <string name="action_settings">Settings</string>
+    <string name="PhoneNum">Phone Num.</string>
+    <string name="print">Print</string>
+    <string name="generate">Generate</string>
+    <string name="GeneratedQr">GeneratedQr</string>
+
+</resources>
